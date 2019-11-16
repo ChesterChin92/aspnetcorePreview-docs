@@ -1,10 +1,9 @@
-# ASP.NET Core 3.0 Workshop
+﻿# ASP.NET Core 3.0 Workshop
 
 Documentation and samples for ASP.NET Core 3.0 workshop.
 
 **NOTE: Updated to final version of .NET Core 3.0!**
 
-![Cover image](docs/images/workshop-cover.png)
 
 This workshop is intended as a walk-through into .NET Core and ASP.NET Core 3.0 features, creating a new Web API, preparing it for production use and consuming it from client-side Blazor client.
 
